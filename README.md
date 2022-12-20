@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python and Linux!**
 
-- 📫 How to reach me **ppmoya08@gmail.com**
+- 📫 How to reach me **pablo08@duck.com**
 
 - ⚡ Fun fact **I used to hate JavaScript and his weird concepts (but now I love JS)**
 
