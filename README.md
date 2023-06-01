@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/prxpablo" target="blank"><img src="https://img.shields.io/twitter/follow/prxpablo?logo=twitter&style=for-the-badge" alt="prxpablo" /></a> </p>
 
-- 🌱 I’m currently learning **React & advanced CSS👨🏻‍🎨, Django & FastAPI🧑🏻‍💻**
+- 🌱 I’m currently learning a lot of React, CSS, NestJS and FastAPI.
 
 - 💬 Ask me about **Python and Linux!**
 
 - 📫 How to reach me **pablo08@duck.com**
-
-- ⚡ Fun fact **I used to hate JavaScript and his weird concepts (but now I love JS)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
